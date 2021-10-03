@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846319817038",
+    "project_id": "implementasifirebase-f0e4a",
+    "storage_bucket": "implementasifirebase-f0e4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846319817038:android:a649443c4985312df18e1f",
+        "android_client_info": {
+          "package_name": "com.streamzinu.ImplementasiFirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846319817038-goj1dngcs0ng5gakccfa85uikubghaue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyBKa87_y81nfqrvbkK83Je2CraVvHwEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846319817038-goj1dngcs0ng5gakccfa85uikubghaue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
